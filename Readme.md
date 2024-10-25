@@ -1,9 +1,11 @@
 # vue 
+-  **https://ko.vuejs.org/**
 
 # 목적 
  -  vue.js
  -  개인홈페이지 fullpage vue 만들어보기
- -  영화db clone 코딩 해보기. 
+ -  영화db clone 코딩 해보기.
+ -  vue Vs React 비교해서 체크해보고 퍼블리셔가 가이드 기준 잡아보기 
 
 # 오늘 할일
 
@@ -48,13 +50,26 @@
    19. 컴포넌트 - Provide, Inject  (양방향 데이타바인딩 , 어려움, 일단 공부하고 지나감. )
    20. 컴포넌트 - Refs (참조)
 
-   - vue study
+   - vue로 개인홈페이지 만들기.
    1. vue create *** 생성 
    2. vuefullpage.js 
    3. github 배포 
    4. joohee-lee.github.com/vue 확인
 
+## 2024년 10월 25일
+  - vue study
+  **composition API **
+  01. 개요
+  02. 반응형 데이터(반응성)
+  03. 기본 옵션과 라이프사이클
+  04. props, context
 
+ ** 영화검색 사이트 예제 **   
+  - clon coding
+
+ - vue로 개인홈페이지 만들기.
+ 1. 화면 섹션 내용 기획
+ 2. header component 만들기      
 
 # 개인 포폴 plan 
 
