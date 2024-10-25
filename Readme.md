@@ -58,7 +58,7 @@
 
 ## 2024년 10월 25일
   - vue study
-  **composition API **
+  **composition API : 컴포지션API (= 리약트 hook 개념) **
   01. 개요
   02. 반응형 데이터(반응성)
   03. 기본 옵션과 라이프사이클
