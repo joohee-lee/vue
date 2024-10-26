@@ -69,7 +69,15 @@
 
  - vue로 개인홈페이지 만들기.
  1. 화면 섹션 내용 기획
- 2. header component 만들기      
+ 2. header component 만들기  (x)
+
+## 2024년 10월 26일 
+ ** 영화검색 사이트 예제 **   
+- clon coding
+- bootstrap vue 설치
+- Bootstrap [https://getbootstrap.kr/ ](https://getbootstrap.kr/docs/5.3/getting-started/introduction/)
+- vue-router 개념
+- axios 비동기 데이터 처리 
 
 # 개인 포폴 plan 
 
