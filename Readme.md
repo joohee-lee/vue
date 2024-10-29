@@ -79,6 +79,41 @@
 - vue-router 개념
 - axios 비동기 데이터 처리 
 
+## 2024년 10월 27일
+클론코딩 
+- vuex 개념
+- 상태관리패턴 개념
+```
+ new Vue({
+   // 상태
+   data () {
+     return {
+       count: 0
+     }
+   },
+   // 뷰
+   template: `
+     <div>{{ count }}</div>
+   `,
+   // 액션
+   methods: {
+     increment () {
+       this.count++
+     }
+   }
+ })
+```
+## 2024년 10월 28일 
+클론 코딩 
+
+## 2024년 10월 29일 
+클론 코딩
+- 
+- 개인포폴 / 섹션 1 정의
+  
+
+
+
 # 개인 포폴 plan 
 
 # Vue vs React 퍼블리셔 기준 고민해보기  
