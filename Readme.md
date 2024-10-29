@@ -16,6 +16,28 @@
     
 ## 2024년 10월 22일
     - vue 시작하기 
+    - 상태관리패턴 개념
+  ```
+   new Vue({
+     // 상태
+     data () {
+       return {
+         count: 0
+       }
+     },
+     // 뷰
+     template: `
+       <div>{{ count }}</div>
+     `,
+     // 액션
+     methods: {
+       increment () {
+         this.count++
+       }
+     }
+   })
+  ```
+
     1. 개요
     02. CDN, Codepen
     03. Vue CLI, Vetur
@@ -81,28 +103,10 @@
 
 ## 2024년 10월 27일
 클론코딩 
-- vuex 개념
-- 상태관리패턴 개념
-```
- new Vue({
-   // 상태
-   data () {
-     return {
-       count: 0
-     }
-   },
-   // 뷰
-   template: `
-     <div>{{ count }}</div>
-   `,
-   // 액션
-   methods: {
-     increment () {
-       this.count++
-     }
-   }
- })
-```
+- vuex 개념 / state -상태 , Getters, mutation(변이), action, module
+
+
+
 ## 2024년 10월 28일 
 클론 코딩 
 
