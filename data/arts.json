@@ -1,1 +1,74 @@
-
+[
+          {
+            url : "https://joohee-lee.github.io/vue/art/art-01.jpg",
+            name: " LeeJooHee"
+            title: "Night Rose",
+            genre: "oil on canvas",
+            size: "72.7cm * 60.6cm",
+            date: "2024"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art09-1.jpg",
+            name: " LeeJooHee"
+            title: "다정함이 필요한 순간",
+            genre: "watercolor on paper",
+            size: "38.5cm * 26.5cm",
+            date: "2023"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art02.jpeg",
+            name: " LeeJooHee"
+            title: "England SevenSisters 1",
+            genre: "Gouache on paper",
+            size: "38.5cm * 26.5cm",
+            date: "2024"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art03.jpeg",
+            name: " LeeJooHee"
+            title: "England SevenSisters 2",
+            genre: "Gouache on paper",
+            size: "38.5cm * 26.5cm",
+            date: "2024"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art04.jpeg",
+            title: "무제",
+            genre: "Gouache on paper",
+            size: "38.5cm * 26.5cm",
+            date: "2024"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art05.jpeg",
+            name: " LeeJooHee"
+            title: " Otaru Canal ",
+            genre: "Gouache on paper",
+            size: "38.5cm * 26.5cm",
+            date: "2024"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art06.jpeg",
+            name: " LeeJooHee"
+            title: "Night of Kyoto",
+            genre: "Gouache on paper",
+            size: "38.5cm * 26.5cm",
+            date: "2024"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art07.jpeg",
+            name: " LeeJooHee"
+            title: "Movie Paula",
+            genre: "oil on canvas",
+            size: "38.5cm * 26.5cm",
+            date: "2023"
+          },
+          {
+            url : "https://joohee-lee.github.io/vue/art/art08.jpeg",
+            name: " LeeJooHee"
+            title: "vietnam",
+            genre: "watercolor on paper",
+            size: "38.5cm * 26.5cm",
+            date: "2020"
+          }
+        
+        ]
