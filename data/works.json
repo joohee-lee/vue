@@ -1,0 +1,123 @@
+ [
+          {
+            "id": 1,
+            "title": "(주)LG CNS SASS 싱글렉스 / 아이디어 쉐어(구축/운영)",
+            "skill": "React.js SPA 환경기반 운영 개선 / 컴폰넌트 기반 마크업 / RWD(반응형) /Git",
+            "date": "2021/07/12 ~ 2024/05/31",
+            "role": "React Component Markup(jsx)/Sass(Scss)/JS(UiScript)"
+          },
+          {
+            "id": 2,
+            "title": "SM (주)SKT - T world",
+            "skill": "PC/Mobile WEb : HTML5/CSS/SCSS/웹표준/웹접근성인증",
+            "date": "2019/04/30 ~ 2021/06/30",
+            "role": "webPublisher"
+          },
+          {
+            "id": 3,
+            "title": "SM (주)세이브더칠드런",
+            "skill":"PC/Mobile WEb : HTML5/CSS/SCSS/JS(UiScript)/웹표준/웹접근성인증",
+            "date": "2018/04 ~ 2018/09",
+            "role": "webPublisher"
+          },
+          {
+            "id": 4,
+            "title": "SM - (주)삼성반도체 & T 스마트 청구서 APP",
+            "skill":"Html5, css, js, RWD(반응형웹)",
+            "date": "2017/07 ~ 2017/12",
+            "role": "webPublisher"
+          },
+
+          {
+            "id": 5,
+            "title": "SI - (주)한미약품 / Ecomerce(복지몰 구축)",
+            "skill":" RWD / Adaptive Web / HTML5 / CSS / Jascript Template(Dust.js)",
+            "date": "2016/12 ~ 2017/05",
+            "role": "webPublisher"
+          },
+
+          {
+            "id": 6,
+            "title": "SM - (주)SKT - T world",
+            "skill":"PC/Mobile WEb : HTML5/CSS/SCSS/웹표준/웹접근성인증",
+            "date": "2015/12 ~ 2016/06",
+            "role": "webPublisher"
+          },
+          {
+            "id": 7,
+            "title": "SI - (주)기아자동차 - RWD / AEM 기반",
+            "skill":" RWD / AEM(WebCMS) 환경 / 컴포넌트 모듈 마크업 / 웹표준 / 웹접근성 ",
+            "date": "2015/08 ~ 2015/09",
+            "role": "webPublisher"
+          },
+          {
+            "id": 8,
+            "title": "SI - (주)교보문고 - 무인검색 시스템",
+            "skill":" RWD / offline 매장 검색 / Markup / CSS / JS ",
+            "date": "2015/06 ~ 2015/07",
+            "role": "webPublisher"
+          },
+          {
+            "id": 9,
+            "title": "SI - 디즈아크 : Game 마케팅 PC Web",
+            "skill":" RWD / offline 매장 검색 / Markup / CSS / JS ",
+            "date": "2015/04 ~ 2015/05",
+            "role": "webPublisher"
+          },
+          {
+            "id": 10,
+            "title": "SI - (주)KDB 생명 다이렉트 보험",
+            "skill":"PC/M Markup / CSS / Jquery / 웹표준/ 웹접근성 ",
+            "date": "2014/12 ~ 2015/01",
+            "role": "webPublisher"
+          },
+          {
+            "id": 11,
+            "title": "SI - (주)교보문고 스콜라 리뉴얼 ",
+            "skill":"PC/M Markup / CSS / Jquery / 웹표준/ 웹접근성 ",
+            "date": "2014/09 ~ 2014/10",
+            "role": "webPublisher"
+          },
+          {
+            "id": 12,
+            "title": "SI - (주)삼성생명 신TMS 시스템 구축",
+            "skill":" Markup / CSS / Jquery / 웹표준/ 웹접근성 ",
+            "date": "2014/01 ~ 2014/06",
+            "role": "webPublisher"
+          },
+          {
+            "id": 13,
+            "title": "SI - (주)삼성생명 인터넷 완결형 시스템 구축",
+            "skill":" Markup / CSS / Jquery / 웹표준/ 웹접근성 ",
+            "date": "2013/05 ~ 2013/11",
+            "role": "webPublisher"
+          },
+          {
+            "id": 14,
+            "title": "SI - (주)삼성 SDS  Mobile widget ",
+            "skill":" Markup / CSS / Jquery / 웹표준/ 웹접근성 ",
+            "date": "2010/04 ~ 2013/03",
+            "role": "webPublisher"
+          },
+          {
+            "id": 15,
+            "title": "SI - (주)삼성 네트웍스  Mobile widget ",
+            "skill":" Markup / CSS / Jquery / 웹표준/ 웹접근성 ",
+            "date": "2009/08 ~ 2010/03",
+            "role": "webPublisher"
+          },
+          {
+            "id": 16,
+            "title": "(주)야후 코리아 ",
+            "skill":"FrontEnd 팀  Markup / CSS / Jquery / 웹표준/ 웹접근성 ",
+            "date": "2004/04 ~ 2007/04",
+            "role": "FrontEnd 대리"
+          },
+          {
+            "id": 17,
+            "title": "(주)ILS 커뮤니케이션 - ILOVESCHOOL ",
+            "skill":"개발팀 웹개발 / MSSql / ASP ",
+            "date": "2001/02 ~ 2001/10",
+            "role": "개발팀 사원"
+          }
+        ]
