@@ -33,10 +33,10 @@
   },
   {
     "type" : "sass(scss)",
-    "logo" : "",
-    "title": "",
-    "text": "",
-    "link": "",
+    "logo" : "https://joohee-lee.github.io/vue/logo/logo.svg",
+    "title": "SASS(SCSS)/DartSass",
+    "text": "css 전처리기",
+    "link": "https://sass-lang.com/",
     "check": ""
   },
   {
