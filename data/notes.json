@@ -1,34 +1,34 @@
 [
    {
     "type" : "html/css",
-    "logo" : "",
+    "logo" : "https://joohee-lee.github.io/vue/logo/html.png",
     "title": "html living standard",
     "text": "HTML의 살아있는 표준",
     "link": "https://html.spec.whatwg.org/",
     "check": ""
   },
   {
-    "type" : "html/css",
-     "logo" : "",
+    "type" : "html/css/js",
+     "logo" : "https://joohee-lee.github.io/vue/logo/mdn.svg",
     "title": "HTML/CSS/js MDN 문서",
     "text": "MDN 문서 가이드",
     "link": "https://developer.mozilla.org/ko/docs/Learn",
     "check": ""
   },
   {
-    "type" : "html/css",
-     "logo" : "",
+    "type" : "html/css/js",
+     "logo" : "https://www.gstatic.com/devrel-devsite/prod/v960e539c2421c080b00a083e0adb1dad169131e34dcce8c54dbf76c94616f031/web/images/lockup.svg",
     "title": "Goole - Web.dev",
-    "text": "google 문서",
-    "link": "https://web.dev/?hl=ko",
+    "text": "CSS & UI 성능",
+    "link": "https://developer.chrome.com/docs/css-ui?hl=ko",
     "check": ""
   },
   {
-    "type" : "브라우져",
-     "logo" : "",
-    "title": "브라우져 렌더링",
-    "text": "google 문서",
-    "link": "https://web.dev/?hl=ko",
+    "type" : "html/css/js",
+     "logo" : "https://www.gstatic.com/devrel-devsite/prod/v960e539c2421c080b00a083e0adb1dad169131e34dcce8c54dbf76c94616f031/web/images/lockup.svg",
+    "title": "google developer",
+    "text": "google developer 문서",
+    "link": "https://developer.chrome.com/docs?hl=ko",
     "check": ""
   },
   {
@@ -94,6 +94,6 @@
     "text": "자바스크립트 프레임웍",
     "link": "",
     "check": ""
-  },
+  }
 
 ]
