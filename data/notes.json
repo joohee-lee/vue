@@ -1,0 +1,80 @@
+[
+  {
+    "type" : "html/css",
+    "title": "HTML/CSS/js MDN 문서",
+    "text": "MDN 문서 가이드",
+    "link": "https://developer.mozilla.org/ko/docs/Learn",
+    "check": ""
+  },
+  {
+    "type" : "html/css",
+    "title": "Goole - Web.dev",
+    "text": "google 문서",
+    "link": "https://web.dev/?hl=ko",
+    "check": ""
+  },
+  {
+    "type" : "브라우져",
+    "title": "브라우져 렌더링",
+    "text": "google 문서",
+    "link": "https://web.dev/?hl=ko",
+    "check": ""
+  },
+  {
+    "type" : "sass(scss)",
+    "title": "",
+    "text": "",
+    "link": "",
+    "check": ""
+  },
+  {
+    "type" : "a11y",
+    "title": "웹접근성 / WaiAria",
+    "text": "",
+    "link": "",
+    "check": ""
+  },
+  {
+    "type" : "JavaScript",
+    "title": "mdn Javascript",
+    "text": "",
+    "link": "https://developer.mozilla.org/ko/docs/Learn/JavaScript",
+    "check": ""
+  },
+  {
+    "type" : "JavaScript",
+    "title": "모던 Javascript",
+    "text": "",
+    "link": "https://developer.mozilla.org/ko/docs/Learn/JavaScript",
+    "check": ""
+  },
+  {
+    "type" : "node",
+    "title": "Node.js",
+    "text": " ",
+    "link": "https://nodejs.org/docs/latest/api/",
+    "check": ""
+  },
+  {
+    "type" : "React",
+    "title": "React.js",
+    "text": "자바스크립트 라이브러리",
+    "link": "",
+     "check": ""
+  },
+  {
+    "type" : "React",
+    "title": "Next.js",
+    "text": "SSR",
+    "link": "",
+    "check": ""
+  },
+  {
+    "type" : "vue",
+    "title": "vue.js",
+    "text": "자바스크립트 프레임웍",
+    "link": "",
+    "check": ""
+  },
+
+]
