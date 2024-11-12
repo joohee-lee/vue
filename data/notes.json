@@ -1,6 +1,7 @@
 [
    {
     "type" : "html/css",
+    "logo" : "",
     "title": "html living standard",
     "text": "HTML의 살아있는 표준",
     "link": "https://html.spec.whatwg.org/",
@@ -8,6 +9,7 @@
   },
   {
     "type" : "html/css",
+     "logo" : "",
     "title": "HTML/CSS/js MDN 문서",
     "text": "MDN 문서 가이드",
     "link": "https://developer.mozilla.org/ko/docs/Learn",
@@ -15,6 +17,7 @@
   },
   {
     "type" : "html/css",
+     "logo" : "",
     "title": "Goole - Web.dev",
     "text": "google 문서",
     "link": "https://web.dev/?hl=ko",
@@ -22,6 +25,7 @@
   },
   {
     "type" : "브라우져",
+     "logo" : "",
     "title": "브라우져 렌더링",
     "text": "google 문서",
     "link": "https://web.dev/?hl=ko",
@@ -29,6 +33,7 @@
   },
   {
     "type" : "sass(scss)",
+    "logo" : "",
     "title": "",
     "text": "",
     "link": "",
@@ -36,6 +41,7 @@
   },
   {
     "type" : "a11y",
+    "logo" : "",
     "title": "웹접근성 / WaiAria",
     "text": "",
     "link": "",
@@ -43,6 +49,7 @@
   },
   {
     "type" : "JavaScript",
+    "logo" : "",
     "title": "mdn Javascript",
     "text": "",
     "link": "https://developer.mozilla.org/ko/docs/Learn/JavaScript",
@@ -50,6 +57,7 @@
   },
   {
     "type" : "JavaScript",
+    "logo" : "", 
     "title": "모던 Javascript",
     "text": "",
     "link": "https://developer.mozilla.org/ko/docs/Learn/JavaScript",
@@ -57,6 +65,7 @@
   },
   {
     "type" : "node",
+     "logo" : "",
     "title": "Node.js",
     "text": " ",
     "link": "https://nodejs.org/docs/latest/api/",
@@ -64,6 +73,7 @@
   },
   {
     "type" : "React",
+    "logo" : "", 
     "title": "React.js",
     "text": "자바스크립트 라이브러리",
     "link": "",
@@ -71,6 +81,7 @@
   },
   {
     "type" : "React",
+    "logo" : "", 
     "title": "Next.js",
     "text": "SSR",
     "link": "",
@@ -78,6 +89,7 @@
   },
   {
     "type" : "vue",
+     "logo" : "",
     "title": "vue.js",
     "text": "자바스크립트 프레임웍",
     "link": "",
