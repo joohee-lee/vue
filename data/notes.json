@@ -34,11 +34,19 @@
   {
     "type" : "sass(scss)",
     "logo" : "https://joohee-lee.github.io/vue/logo/logo.svg",
-    "title": "SASS(SCSS)/DartSass",
+    "title": "SASS(SCSS)",
     "text": "css 전처리기",
     "link": "https://sass-lang.com/",
     "check": ""
   },
+  {
+    "type" : "sass(scss)/dart",
+    "logo" : "https://joohee-lee.github.io/vue/logo/logo.svg",
+    "title": "DartSass",
+    "text": "css 전처리기 / node-sass-to-dart-sass(https://smartstudio.tech/node-sass-to-dart-sass/)",
+    "link": "https://sass-lang.com/dart-sass/",
+    "check": ""
+  }, 
   {
     "type" : "a11y",
     "logo" : "",
