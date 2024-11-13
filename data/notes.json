@@ -1,12 +1,4 @@
 [
-   {
-    "type" : "html/css",
-    "logo" : "https://joohee-lee.github.io/vue/logo/html.png",
-    "title": "html living standard",
-    "text": "HTML의 살아있는 표준",
-    "link": "https://html.spec.whatwg.org/",
-    "check": ""
-  },
   {
     "type" : "html/css/js",
     "logo" : "https://joohee-lee.github.io/vue/logo/mdn.svg",
@@ -16,123 +8,131 @@
     "check": ""
   },
   {
-    "type" : "html/css/js",
+   "type" : "html/css",
+   "logo" : "https://joohee-lee.github.io/vue/logo/html.png",
+   "title": "html living standard",
+   "text": "HTML의 살아있는 표준",
+   "link": "https://html.spec.whatwg.org/",
+   "check": ""
+ },
+ {
+   "type" : "html/css/js",
+   "logo" : "https://www.gstatic.com/devrel-devsite/prod/v960e539c2421c080b00a083e0adb1dad169131e34dcce8c54dbf76c94616f031/web/images/lockup.svg",
+   "title": "Goole - Web.dev",
+   "text": "CSS & UI 성능",
+   "link": "https://developer.chrome.com/docs/css-ui?hl=ko",
+   "check": ""
+ },
+ {
+   "type" : "html/css/js",
     "logo" : "https://www.gstatic.com/devrel-devsite/prod/v960e539c2421c080b00a083e0adb1dad169131e34dcce8c54dbf76c94616f031/web/images/lockup.svg",
-    "title": "Goole - Web.dev",
-    "text": "CSS & UI 성능",
-    "link": "https://developer.chrome.com/docs/css-ui?hl=ko",
-    "check": ""
-  },
+   "title": "google developer",
+   "text": "google developer 문서",
+   "link": "https://developer.chrome.com/docs?hl=ko",
+   "check": ""
+ },
+ {
+   "type" : "sass(scss)",
+   "logo" : "https://joohee-lee.github.io/vue/logo/logo.svg",
+   "title": "SASS(SCSS)",
+   "text": "css 전처리기",
+   "link": "https://sass-lang.com/",
+   "check": ""
+ },
+ {
+   "type" : "sass(scss)/dart",
+   "logo" : "https://joohee-lee.github.io/vue/logo/logo.svg",
+   "title": "DartSass",
+   "text": "css 전처리기 / node-sass-to-dart-sass(https://smartstudio.tech/node-sass-to-dart-sass/)",
+   "link": "https://sass-lang.com/dart-sass/",
+   "check": ""
+ }, 
+ {
+   "type" : "a11y",
+   "logo" : "",
+   "title": "웹접근성 / WaiAria",
+   "text": "",
+   "link": "https://www.w3.org/WAI/standards-guidelines/aria/",
+   "check": ""
+ },
+ {
+   "type" : "a11y",
+   "logo" : "https://joohee-lee.github.io/vue/logo/mdn.svg",
+   "title": "웹접근성 / WaiAria",
+   "text": "MDN",
+   "link": "hhttps://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+   "check": ""
+ }, 
+ {
+   "type" : "JavaScript",
+   "logo" : "",
+   "title": "mdn Javascript",
+   "text": "",
+   "link": "https://developer.mozilla.org/ko/docs/Learn/JavaScript",
+   "check": ""
+ },
+ {
+   "type" : "JavaScript",
+   "logo" : "https://ko.javascript.info/img/sitetoolbar__logo_en.svg", 
+   "title": "모던 Javascript",
+   "text": "",
+   "link": "https://ko.javascript.info/",
+   "check": ""
+ },
+ {
+   "type" : "html/css/js",
+   "logo" : "", 
+   "title": "heropy blog",
+   "text": "개발 블로거",
+   "link": "https://heropy.blog/",
+   "check": ""
+ }, 
+ {
+   "type" : "node",
+   "logo" : "",
+   "title": "Node.js",
+   "text": " ",
+   "link": "https://nodejs.org/docs/latest/api/",
+   "check": ""
+ },
+ {
+   "type" : "React",
+   "logo" : "https://joohee-lee.github.io/vue/logo/logo_light.svg", 
+   "title": "React.js",
+   "text": "React 공식문서가이드 / 한국어: https://ko.react.dev/",
+   "link": "https://react.dev/",
+   "check": ""
+ },
+ {
+   "type" : "React/next/SSR",
+   "logo" : "https://joohee-lee.github.io/vue/logo/logo_light.svg", 
+   "title": "Next.js",
+   "text": "SSR",
+   "link": "https://nextjs.org/docs",
+   "check": ""
+ },
+ {
+   "type" : "vue",
+   "logo" : "https://joohee-lee.github.io/vue/logo/vue.svg",
+   "title": "vue.js",
+   "text": "자바스크립트 프레임웍 / 공식문서가이드",
+   "link": "https://ko.vuejs.org/",
+   "check": ""
+ },
   {
-    "type" : "html/css/js",
-     "logo" : "https://www.gstatic.com/devrel-devsite/prod/v960e539c2421c080b00a083e0adb1dad169131e34dcce8c54dbf76c94616f031/web/images/lockup.svg",
-    "title": "google developer",
-    "text": "google developer 문서",
-    "link": "https://developer.chrome.com/docs?hl=ko",
-    "check": ""
-  },
-  {
-    "type" : "sass(scss)",
-    "logo" : "https://joohee-lee.github.io/vue/logo/logo.svg",
-    "title": "SASS(SCSS)",
-    "text": "css 전처리기",
-    "link": "https://sass-lang.com/",
-    "check": ""
-  },
-  {
-    "type" : "sass(scss)/dart",
-    "logo" : "https://joohee-lee.github.io/vue/logo/logo.svg",
-    "title": "DartSass",
-    "text": "css 전처리기 / node-sass-to-dart-sass(https://smartstudio.tech/node-sass-to-dart-sass/)",
-    "link": "https://sass-lang.com/dart-sass/",
-    "check": ""
-  }, 
-  {
-    "type" : "a11y",
-    "logo" : "",
-    "title": "웹접근성 / WaiAria",
-    "text": "",
-    "link": "https://www.w3.org/WAI/standards-guidelines/aria/",
-    "check": ""
-  },
-  {
-    "type" : "a11y",
-    "logo" : "https://joohee-lee.github.io/vue/logo/mdn.svg",
-    "title": "웹접근성 / WaiAria",
-    "text": "MDN",
-    "link": "hhttps://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
-    "check": ""
-  }, 
-  {
-    "type" : "JavaScript",
-    "logo" : "",
-    "title": "mdn Javascript",
-    "text": "",
-    "link": "https://developer.mozilla.org/ko/docs/Learn/JavaScript",
-    "check": ""
-  },
-  {
-    "type" : "JavaScript",
-    "logo" : "https://ko.javascript.info/img/sitetoolbar__logo_en.svg", 
-    "title": "모던 Javascript",
-    "text": "",
-    "link": "https://ko.javascript.info/",
-    "check": ""
-  },
-  {
-    "type" : "html/css/js",
-    "logo" : "", 
-    "title": "heropy blog",
-    "text": "개발 블로거",
-    "link": "https://heropy.blog/",
-    "check": ""
-  }, 
-  {
-    "type" : "node",
-    "logo" : "",
-    "title": "Node.js",
-    "text": " ",
-    "link": "https://nodejs.org/docs/latest/api/",
-    "check": ""
-  },
-  {
-    "type" : "React",
-    "logo" : "", 
-    "title": "React.js",
-    "text": "React 공식문서가이드 / 한국어: https://ko.react.dev/",
-    "link": "https://react.dev/",
-    "check": ""
-  },
-  {
-    "type" : "React/next/SSR",
-    "logo" : "", 
-    "title": "Next.js",
-    "text": "SSR",
-    "link": "https://nextjs.org/docs",
-    "check": ""
-  },
-  {
-    "type" : "vue",
+   "type" : "vue/nuxt/SSR",
     "logo" : "https://joohee-lee.github.io/vue/logo/vue.svg",
-    "title": "vue.js",
-    "text": "자바스크립트 프레임웍 / 공식문서가이드",
-    "link": "https://ko.vuejs.org/",
-    "check": ""
-  },
-   {
-    "type" : "vue/nuxt/SSR",
-     "logo" : "https://joohee-lee.github.io/vue/logo/vue.svg",
-    "title": "nuxt.js",
-    "text": "자바스크립트 프레임웍 / 공식문서가이드",
-    "link": "https://nuxt.com/",
-    "check": ""
-  },
-  {
-    "type" : "Git/버전관리",
-    "logo" : "https://git-scm.com//images/logo@2x.png",
-    "title": "Git",
-    "text": "공식문서가이드 / 한국어 https://git-scm.com/book/ko/v2",
-    "link": "https://git-scm.com/doc",
-    "check": ""
-  }
+   "title": "nuxt.js",
+   "text": "자바스크립트 프레임웍 / 공식문서가이드",
+   "link": "https://nuxt.com/",
+   "check": ""
+ },
+ {
+   "type" : "Git/버전관리",
+   "logo" : "https://git-scm.com//images/logo@2x.png",
+   "title": "Git",
+   "text": "공식문서가이드 / 한국어 https://git-scm.com/book/ko/v2",
+   "link": "https://git-scm.com/doc",
+   "check": ""
+ }
 ]
