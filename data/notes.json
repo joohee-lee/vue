@@ -53,8 +53,16 @@
     "title": "웹접근성 / WaiAria",
     "text": "",
     "link": "",
-    "check": ""
+    "check": "https://www.w3.org/WAI/standards-guidelines/aria/"
   },
+  {
+    "type" : "a11y",
+    "logo" : "",
+    "title": "웹접근성 / WaiAria",
+    "text": "MDN",
+    "link": "",
+    "check": "hhttps://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA"
+  }, 
   {
     "type" : "JavaScript",
     "logo" : "",
@@ -68,9 +76,17 @@
     "logo" : "", 
     "title": "모던 Javascript",
     "text": "",
-    "link": "https://developer.mozilla.org/ko/docs/Learn/JavaScript",
+    "link": "https://ko.javascript.info/",
     "check": ""
   },
+  {
+    "type" : "html/css/js",
+    "logo" : "", 
+    "title": "heropy blog",
+    "text": "",
+    "link": "https://heropy.blog/",
+    "check": ""
+  }, 
   {
     "type" : "node",
      "logo" : "",
@@ -83,25 +99,40 @@
     "type" : "React",
     "logo" : "", 
     "title": "React.js",
-    "text": "자바스크립트 라이브러리",
-    "link": "",
-     "check": ""
+    "text": "React 공식문서가이드 / 한국어: https://ko.react.dev/",
+    "link": "https://react.dev/",
+    "check": ""
   },
   {
-    "type" : "React",
+    "type" : "React/next/SSR",
     "logo" : "", 
     "title": "Next.js",
     "text": "SSR",
-    "link": "",
+    "link": "https://nextjs.org/docs",
     "check": ""
   },
   {
     "type" : "vue",
      "logo" : "",
     "title": "vue.js",
-    "text": "자바스크립트 프레임웍",
-    "link": "",
+    "text": "자바스크립트 프레임웍 / 공식문서가이드",
+    "link": "https://ko.vuejs.org/",
     "check": ""
-  }
-
+  },
+   {
+    "type" : "vue/nuxt/SSR",
+     "logo" : "",
+    "title": "nuxt.js",
+    "text": "자바스크립트 프레임웍 / 공식문서가이드",
+    "link": "https://nuxt.com/",
+    "check": ""
+  },
+  {
+    "type" : "Git/버전관리",
+     "logo" : "",
+    "title": "Git",
+    "text": "공식문서가이드 / 한국어 https://git-scm.com/book/ko/v2",
+    "link": "https://git-scm.com/doc",
+    "check": ""
+  }, 
 ]
