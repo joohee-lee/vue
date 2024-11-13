@@ -9,7 +9,7 @@
   },
   {
     "type" : "html/css/js",
-     "logo" : "https://joohee-lee.github.io/vue/logo/mdn.svg",
+    "logo" : "https://joohee-lee.github.io/vue/logo/mdn.svg",
     "title": "HTML/CSS/js MDN 문서",
     "text": "MDN 문서 가이드",
     "link": "https://developer.mozilla.org/ko/docs/Learn",
@@ -17,7 +17,7 @@
   },
   {
     "type" : "html/css/js",
-     "logo" : "https://www.gstatic.com/devrel-devsite/prod/v960e539c2421c080b00a083e0adb1dad169131e34dcce8c54dbf76c94616f031/web/images/lockup.svg",
+    "logo" : "https://www.gstatic.com/devrel-devsite/prod/v960e539c2421c080b00a083e0adb1dad169131e34dcce8c54dbf76c94616f031/web/images/lockup.svg",
     "title": "Goole - Web.dev",
     "text": "CSS & UI 성능",
     "link": "https://developer.chrome.com/docs/css-ui?hl=ko",
@@ -89,7 +89,7 @@
   }, 
   {
     "type" : "node",
-     "logo" : "",
+    "logo" : "",
     "title": "Node.js",
     "text": " ",
     "link": "https://nodejs.org/docs/latest/api/",
@@ -113,7 +113,7 @@
   },
   {
     "type" : "vue",
-     "logo" : "https://joohee-lee.github.io/vue/logo/vue.svg",
+    "logo" : "https://joohee-lee.github.io/vue/logo/vue.svg",
     "title": "vue.js",
     "text": "자바스크립트 프레임웍 / 공식문서가이드",
     "link": "https://ko.vuejs.org/",
@@ -129,10 +129,10 @@
   },
   {
     "type" : "Git/버전관리",
-     "logo" : "https://git-scm.com//images/logo@2x.png",
+    "logo" : "https://git-scm.com//images/logo@2x.png",
     "title": "Git",
     "text": "공식문서가이드 / 한국어 https://git-scm.com/book/ko/v2",
     "link": "https://git-scm.com/doc",
     "check": ""
-  }, 
+  }
 ]
