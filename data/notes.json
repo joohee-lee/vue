@@ -52,16 +52,16 @@
     "logo" : "",
     "title": "웹접근성 / WaiAria",
     "text": "",
-    "link": "",
-    "check": "https://www.w3.org/WAI/standards-guidelines/aria/"
+    "link": "https://www.w3.org/WAI/standards-guidelines/aria/",
+    "check": ""
   },
   {
     "type" : "a11y",
-    "logo" : "",
+    "logo" : "https://joohee-lee.github.io/vue/logo/mdn.svg",
     "title": "웹접근성 / WaiAria",
     "text": "MDN",
-    "link": "",
-    "check": "hhttps://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA"
+    "link": "hhttps://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+    "check": ""
   }, 
   {
     "type" : "JavaScript",
@@ -73,7 +73,7 @@
   },
   {
     "type" : "JavaScript",
-    "logo" : "", 
+    "logo" : "https://ko.javascript.info/img/sitetoolbar__logo_en.svg", 
     "title": "모던 Javascript",
     "text": "",
     "link": "https://ko.javascript.info/",
@@ -83,7 +83,7 @@
     "type" : "html/css/js",
     "logo" : "", 
     "title": "heropy blog",
-    "text": "",
+    "text": "개발 블로거",
     "link": "https://heropy.blog/",
     "check": ""
   }, 
@@ -129,7 +129,7 @@
   },
   {
     "type" : "Git/버전관리",
-     "logo" : "",
+     "logo" : "https://git-scm.com//images/logo@2x.png",
     "title": "Git",
     "text": "공식문서가이드 / 한국어 https://git-scm.com/book/ko/v2",
     "link": "https://git-scm.com/doc",
