@@ -113,7 +113,7 @@
   },
   {
     "type" : "vue",
-     "logo" : "",
+     "logo" : "https://joohee-lee.github.io/vue/logo/vue.svg",
     "title": "vue.js",
     "text": "자바스크립트 프레임웍 / 공식문서가이드",
     "link": "https://ko.vuejs.org/",
@@ -121,7 +121,7 @@
   },
    {
     "type" : "vue/nuxt/SSR",
-     "logo" : "",
+     "logo" : "https://joohee-lee.github.io/vue/logo/vue.svg",
     "title": "nuxt.js",
     "text": "자바스크립트 프레임웍 / 공식문서가이드",
     "link": "https://nuxt.com/",
